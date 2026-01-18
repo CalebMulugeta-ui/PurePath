@@ -1,22 +1,23 @@
-##🌿 PurePath
-PurePath is a truth-checker that helps you spot "greenwashing"—when companies lie about being eco-friendly to trick you. We turn hours of tedious research into a simple 5-second Truth Score so you can shop with confidence.
 <img width="1024" height="1024" alt="Gemini_Generated_Image_xeb7q2xeb7q2xeb7" src="https://github.com/user-attachments/assets/8fe53d61-c513-4401-89a2-5573f9d93974" />
 
-##💡 Inspiration
-We were tired of the "marketing fog". Every brand has a leaf on its box now, but 80% of those claims are exaggerated or just plain fake. We built this because if the pros can't tell what's real, the rest of us don't stand a chance.
+# 🌿 PurePath
 
-##🛠️ How it Works
-Scrape: We use Yellowcake API to "read" corporate sites and pull out specific promises (like "Net Zero by 2030").
+**PurePath** is a real-time "truth-checker" for sustainability. We use AI to cut through the "marketing fog" and spot greenwashing—the practice of companies pretending to be eco-friendly to trick consumers. 
 
-Verify: Gemini 2.5 Flash acts as our brain, scanning news and legal reports to see if the company is actually keeping those promises.
+Instead of taking a brand's word for it, PurePath gives you a data-backed **Truth Score** in seconds.
 
-Score: You get a 0-100 score. High score = leader. Low score = greenwasher.
+---
 
-##Tech Stack
-Brain: Gemini 2.5 Flash (via google-genai)
+## 💡 Inspiration
+We were tired of seeing leaves and "eco-friendly" labels on everything when nearly **80% of corporate sustainability claims** are actually exaggerated or lack verifiable evidence. We built PurePath because if professional investors are confused by greenwashing, regular shoppers don't stand a chance.
 
-Hands: Yellowcake API (for structured scraping)
+## 🛠️ What it Does
+* **Scrape Promises**: Uses the **Yellowcake API** to "read" corporate sites and extract specific commitments like "Net Zero by 2030" or "Plastic-Free".
+* **Verify Reality**: **Gemini 2.5 Flash** scans news reports, legal filings, and environmental studies for contradictions (e.g., hidden emissions or climate lobbying).
+* **Truth Score**: Generates an intuitive 0–100 score to help you identify true environmental leaders.
 
-Logic: Python + Pydantic (for clean data)
-
-Face: Streamlit (for the live dashboard)
+## 🚀 Tech Stack
+*  [Gemini 2.5 Flash](https://aistudio.google.com/) (Reasoning & Conflict Analysis)
+* [Yellowcake API](https://docs.yellowcake.dev/) (Intelligent Structured Scraping)
+* Python + Pydantic (Data Integrity & Schemas)
+* *Streamlit (Real-time SSE Data Streaming)
