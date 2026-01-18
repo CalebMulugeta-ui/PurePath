@@ -1,6 +1,6 @@
 # 🌿 PurePath
 
-**PurePath** is a "truth-checker" for sustainability. We use AI to cut through the "marketing fog" and spot greenwashing, the practice of companies pretending to be eco friendly to trick consumers. 
+**PurePath** is a "truth checker" for sustainability. We use AI to cut through the "marketing fog" and spot greenwashing, the practice of companies pretending to be eco friendly to trick consumers. 
 
 Instead of taking a brand's word for it, PurePath gives you a data-backed **Truth Score** in seconds.
 
