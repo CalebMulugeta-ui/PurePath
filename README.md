@@ -1,5 +1,3 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_xeb7q2xeb7q2xeb7" src="https://github.com/user-attachments/assets/8fe53d61-c513-4401-89a2-5573f9d93974" />
-
 # 🌿 PurePath
 
 **PurePath** is a real-time "truth-checker" for sustainability. We use AI to cut through the "marketing fog" and spot greenwashing—the practice of companies pretending to be eco-friendly to trick consumers. 
