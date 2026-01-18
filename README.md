@@ -4,8 +4,6 @@
 
 Instead of taking a brand's word for it, PurePath gives you a data-backed **Truth Score** in seconds.
 
----
-
 ## 💡 Inspiration
 We were tired of seeing leaves and "eco-friendly" labels on everything when nearly **80% of corporate sustainability claims** are actually exaggerated or lack verifiable evidence. We built PurePath because if professional investors are confused by greenwashing, regular shoppers don't stand a chance.
 
