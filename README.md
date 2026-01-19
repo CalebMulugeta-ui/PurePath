@@ -9,7 +9,7 @@ We were tired of seeing "eco friendly" labels on everything when nearly **80% of
 
 ## 🛠️ What it Does
 * **Scrape Promises**: Uses the **Yellowcake API** to "read" corporate sites and extract specific commitments like "Net Zero by 2030" or "Plastic-Free".
-* **Verify Reality**: **Gemini 2.5 Flash** scans news reports, legal filings, and environmental studies for contradictions (e.g., hidden emissions or climate lobbying).
+* **Verifies**: **Gemini 2.5 Flash** scans news reports, legal filings, and environmental studies for contradictions (e.g., hidden emissions or climate lobbying).
 * **Truth Score**: Generates an intuitive 0–100 score to help you identify true environmental leaders.
 
 ## 🚀 Tech Stack
